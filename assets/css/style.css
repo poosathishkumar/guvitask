@@ -1,0 +1,122 @@
+@font-face {
+  font-family: "Anton";
+  src: url(../fonts/Anton-Regular.ttf);
+}
+@font-face {
+  font-family: "Lato";
+  src: url(../fonts/Inter-Medium.ttf);
+}
+
+join-community-header {
+  height: 100vh;
+}
+.join-community-container {
+  width: 528px;
+  background: #ffffff;
+  border: 1px solid #e6e7ea;
+  box-shadow: 0px 4px 12px rgb(153 153 153 / 10%);
+  border-radius: 10px;
+  padding: 50px;
+}
+.join-community {
+  font-size: 45px;
+  line-height: 49px;
+  text-align: center;
+  color: #151515;
+  font-family: "Anton";
+}
+
+.google-button {
+  border: 1px solid #e1e1e1;
+  padding: 5px;
+}
+.google-button img {
+  width: 9% !important;
+}
+.google-button p {
+  margin: 0;
+  font-size: 16px;
+  line-height: 24px;
+  padding-left: 10px;
+  margin-top: 6px;
+}
+.or-content p {
+  font-family: "Lato";
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 24px;
+  color: #151515;
+  opacity: 0.6;
+  text-align: center;
+  text-transform: uppercase;
+}
+.manage-profile-container label {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #151515;
+}
+.manage-profile-container input {
+  padding: 10px 20px 14px;
+  background: #fafafb;
+  border: 1px solid #e6e7ea;
+  border-radius: 10px;
+}
+.form-password label {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #151515;
+}
+.form-password input {
+  padding: 10px 20px 14px;
+  background: #fafafb;
+  border: 1px solid #e6e7ea;
+  border-radius: 10px;
+}
+.reset-password-content {
+  padding: 9px 20px;
+  background: #f68a27;
+  box-shadow: 0px 1px 2px rgb(16 24 40 / 5%);
+  border-radius: 10px;
+  font-family: "Lato";
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  text-align: center;
+  color: #ffffff;
+}
+.arrow-content p {
+  font-family: "Lato";
+  font-size: 14px;
+  line-height: 18px;
+  color: #6a6a6a;
+}
+.sign-up-c p {
+  font-family: "Lato";
+  font-size: 14px;
+  line-height: 18px;
+  color: #6a6a6a;
+  text-align: center;
+}
+.manage-profile-container label {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  color: #151515;
+}
+.manage-profile-container input {
+  padding: 10px 20px 14px;
+  background: #fafafb;
+  border: 1px solid #e6e7ea;
+  border-radius: 10px;
+}
+
